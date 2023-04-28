@@ -27,7 +27,7 @@ Nov 2022:** **Teaching Assistant**, NPTEL
 
   * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
 
-  *  * Session recordings: [Recordings](https://www.youtube.com/watch?v=wT4zbfe7kII&list=PLzIVCkaL4WKMfzRhvoF5jxeLJjba56qD2)
+  * Session recordings: [Recordings](https://www.youtube.com/watch?v=wT4zbfe7kII&list=PLzIVCkaL4WKMfzRhvoF5jxeLJjba56qD2)
 
 * **Aug 2022-
 Nov 2022:** **Teaching Assistant**, IIT Gandhinagar
