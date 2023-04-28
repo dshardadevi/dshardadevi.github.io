@@ -11,6 +11,8 @@ April 2023:** **Teaching Assistant**, NPTEL
 
   * Instructor: Dr.Pradip Mandal, Professor, IIT Kharagpur
 
+  * Session recordings: [Recordings](https://www.youtube.com/watch?v=28AHd5FvBYo&list=PLzIVCkaL4WKNTcNYvcvMQOkFBmcastLQI)
+
 * **Jan 2023-
 April 2023** **Teaching Assistant**, IIT Gandhinagar
  
@@ -24,6 +26,8 @@ Nov 2022:** **Teaching Assistant**, NPTEL
   * Course: Analog Electronic circuits
 
   * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
+
+  *  * Session recordings: [Recordings](https://www.youtube.com/watch?v=wT4zbfe7kII&list=PLzIVCkaL4WKMfzRhvoF5jxeLJjba56qD2)
 
 * **Aug 2022-
 Nov 2022:** **Teaching Assistant**, IIT Gandhinagar
