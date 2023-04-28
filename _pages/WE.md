@@ -4,8 +4,8 @@ title: "Work experience"
 author_profile: true
 
 ---
-* **Aug 2022-
-Nov 2022:** **Teaching Assistant**, NPTEL
+* **Feb 2023-
+April 2023:** **Teaching Assistant**, NPTEL
  
   * Course: Analog Electronic circuits
 
