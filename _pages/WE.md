@@ -4,8 +4,36 @@ title: "Work experience"
 author_profile: true
 
 ---
+* **Aug 2022-
+Nov 2022:** **Teaching Assistant**, NPTEL
+ 
+  * Course: Analog Electronic circuits
+
+  * Instructor: Dr.Pradip Mandal, Professor, IIT Kharagpur
+
+* **Jan 2023-
+April 2023** **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: Analog CMOS IC design
+
+  * Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
+  
+* **Aug 2022-
+Nov 2022:** **Teaching Assistant**, NPTEL
+ 
+  * Course: Analog Electronic circuits
+
+  * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
+
+* **Aug 2022-
+Nov 2022:** **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: Analog circuits
+
+  * Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
+
 * **May 2022-
-Present:** **Graduate Teaching Fellow**, IIT Gandhinagar
+July 2022:** **Graduate Teaching Fellow**, IIT Gandhinagar
 
   * Course: Introduction to Analog and Digital Electronics
 
