@@ -5,17 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 ** Conference Publications **
-* April 2024 **Teaching Assistant**, IIT Gandhinagar
+* Santhia Carmel A, ** D Sharda Devi**, Nihar R. Mohapatra, "Reduction of Schottky Barrier Height for Au-WS$_2$
+Interface with Iodine Doping - A Physical Insight", IEEE NANO 2023 
  
 ** Posters **
-* Course: Principles and Applications of Electrical Engineering
-  * Instructor: Dr. Arup Lal Chakraborty, Professor, IIT Gandhinagar
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* ** D Sharda Devi** and Nihar R Mohapatra,"Reduction of Schottky barrier height using substitutional doping in WS2", EDTM 2024
