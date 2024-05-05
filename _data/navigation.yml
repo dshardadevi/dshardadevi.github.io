@@ -4,6 +4,8 @@ main:
   - title: "Work experience"
     url: /WE/
   - title: "Patents"
+    url: /Publications/ 
+  - title: "Publications"
     url: /Patents/ 
   - title: "Achievements"
     url: /Achievements/
