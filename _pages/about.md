@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a PhD Scholar in the Discipline of Electrical Engineering at nanoDC Lab, IIT Gandhinagar, working with [Prof. Nihar Ranjan Mohapatra](https://iitgn.ac.in/faculty/ee/fac-nihar). I am currently working on designing efficient 2D material contacts to handle contact resistance, which can be used in designing efficient 2D material-based MOSFETs and Reconfigurable FETs.
-* [Detailed CV](https://drive.google.com/drive/u/0/home)
+* [Detailed CV](https://drive.google.com/file/d/1x7Fvp_eFzJLV4E2eFpnlsB2tF_AWTxUy/view?usp=drive_link)
 
 
 Research interests
