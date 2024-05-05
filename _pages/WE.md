@@ -8,7 +8,9 @@ author_profile: true
 April 2024** **Teaching Assistant**, IIT Gandhinagar
  
   * Course: Principles and Applications of Electrical Engineering
+    
   * Instructor: Dr. Arup Lal Chakraborty, Professor, IIT Gandhinagar
+    
 * **Feb 2024-
 April 2024** **Teaching Assistant**, L. D. College of Engineering 
 (LDCE), Ahmedabad, Gujarat
@@ -17,6 +19,7 @@ April 2024** **Teaching Assistant**, L. D. College of Engineering
 
   * Instructor: Dr.Pankaj Prajapati, Asst. Professor, L. D. College of Engineering 
 (LDCE), Ahmedabad
+
 * **Aug 2023-
 Nov 2023:** **Teaching Assistant**, IIT Gandhinagar
  
@@ -32,6 +35,7 @@ Oct 2023:** **Teaching Assistant**, NPTEL
   * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
 
   * Session recordings: [Recordings](https://www.youtube.com/watch?v=3aGLH3T8_gY&list=PLzIVCkaL4WKPlEvcC9wSuiJyDiotMnOBa)
+    
 * **Feb 2023-
 April 2023:** **Teaching Assistant**, NPTEL
  
