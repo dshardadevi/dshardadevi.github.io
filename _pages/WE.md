@@ -4,6 +4,34 @@ title: "Work experience"
 author_profile: true
 
 ---
+* **Jan 2024-
+April 2024** **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: Principles and Applications of Electrical Engineering
+  * Instructor: Dr. Arup Lal Chakraborty, Professor, IIT Gandhinagar
+* **Feb 2024-
+April 2024** **Teaching Assistant**, L. D. College of Engineering 
+(LDCE), Ahmedabad, Gujarat
+ 
+  * Course: VLSI Master’s Mini Project
+
+  * Instructor: Dr.Pankaj Prajapati, Asst. Professor, L. D. College of Engineering 
+(LDCE), Ahmedabad
+* **Aug 2023-
+Nov 2023:** **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: Analog circuits
+
+  * Instructor: Dr. Tarun Agrawal, Asst. Professor, IIT Gandhinagar
+
+* **July 2023-
+Oct 2023:** **Teaching Assistant**, NPTEL
+ 
+  * Course: Analog Electronic circuits
+
+  * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
+
+  * Session recordings: [Recordings](https://www.youtube.com/watch?v=3aGLH3T8_gY&list=PLzIVCkaL4WKPlEvcC9wSuiJyDiotMnOBa)
 * **Feb 2023-
 April 2023:** **Teaching Assistant**, NPTEL
  
