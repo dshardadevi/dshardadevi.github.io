@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "D Sharda Devi"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "D Sharda Devi"
 description              : &description "Prime Minister Research Fellow, Electrical Engineering, IIT Gandhinagar "
 url                      : https://dshardadevi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
