@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : 
   email            : &email "dsharda.d@iitgn.ac.in"
-  researchgate     : "https://www.youtube.com/@dshardadevi8202" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : &youtube "@dshardadevi8202"
+  youtube          : &youtube "https://www.youtube.com/@dshardadevi8202"
   wikipedia        :
 
 
