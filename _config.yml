@@ -86,7 +86,7 @@ author:
   location         : "nanoDC Lab, 13/301, IITGN"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=5q9qgr4AAAAJ&hl=en&oi=ao"
   email            : &email "dsharda.d@iitgn.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "d-sharda-devi-5037b2154"
-  orcid            : 
+  orcid            : "0009-0004-9021-7373"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
