@@ -4,6 +4,22 @@ title: "Work experience"
 author_profile: true
 
 ---
+* **Aug 2024-
+Nov 2024:** **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: Electronic Devices
+
+  * Instructor: Dr.Sandip Lashkare, Asst. Professor, IIT Gandhinagar
+
+* **July 2024-
+Oct 2024:** **Teaching Assistant**, NPTEL
+ 
+  * Course: Analog Electronic circuits
+
+  * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
+
+  * Session recordings: [Recordings](https://www.youtube.com/watch?v=iZrnPvqmg9s&list=PLzIVCkaL4WKMwUbsF5My4sI8JGSj5bVre)
+
 * **Jan 2024-
 April 2024** **Teaching Assistant**, IIT Gandhinagar
  
