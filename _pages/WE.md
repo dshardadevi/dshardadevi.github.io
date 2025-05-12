@@ -9,14 +9,14 @@ author_profile: true
  
   * Course: Workshop on Introduction and Hands-on to TCAD
 
-  * Instructor: Dr.Sanjay Prajapati, Assoc. Professor, L. D. College of Engineering 
+  * Instructor: Dr. Sanjay Prajapati, Assoc. Professor, L. D. College of Engineering 
 (LDCE), Ahmedabad
 * **Jan 2025-
 March 2025:** **Teaching Assistant**, NPTEL
  
   * Course: Analog Circuits
 
-  * Instructor: Prof. Jayanta Mukherjee, Professor, IIT Bombay 
+  * Instructor: Dr. Jayanta Mukherjee, Professor, IIT Bombay 
 
   * Session recordings: [Recordings](https://www.youtube.com/watch?v=uzoHh_E27fc&list=PLzIVCkaL4WKMot7o1yshOjXhrugB-3pFo)
 
