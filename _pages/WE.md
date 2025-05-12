@@ -4,6 +4,28 @@ title: "Work experience"
 author_profile: true
 
 ---
+* **April 2025** **Teaching Assistant**, L. D. College of Engineering 
+(LDCE), Ahmedabad, Gujarat
+ 
+  * Course: Workshop on Introduction and Hands-on to TCAD
+
+  * Instructor: Dr.Sanjay Prajapati, Assoc. Professor, L. D. College of Engineering 
+(LDCE), Ahmedabad
+* **Jan 2025-
+March 2025:** **Teaching Assistant**, NPTEL
+ 
+  * Course: Analog Circuits
+
+  * Instructor: Prof. Jayanta Mukherjee, Professor, IIT Bombay 
+
+  * Session recordings: [Recordings](https://www.youtube.com/watch?v=uzoHh_E27fc&list=PLzIVCkaL4WKMot7o1yshOjXhrugB-3pFo)
+
+* **Jan 2025-
+April 2025** **Teaching Assistant**, IIT Gandhinagar
+ 
+  * Course: Microelectronics Lab
+    
+  * Instructor: Dr.Nihar Ranjan Mohapatra, Professor, IIT Gandhinagar
 * **Aug 2024-
 Nov 2024:** **Teaching Assistant**, IIT Gandhinagar
  
@@ -14,7 +36,7 @@ Nov 2024:** **Teaching Assistant**, IIT Gandhinagar
 * **July 2024-
 Oct 2024:** **Teaching Assistant**, NPTEL
  
-  * Course: Analog Electronic circuits
+  * Course: Analog Electronic Circuits
 
   * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
 
@@ -33,7 +55,7 @@ April 2024** **Teaching Assistant**, L. D. College of Engineering
  
   * Course: VLSI Master’s Mini Project
 
-  * Instructor: Dr.Pankaj Prajapati, Asst. Professor, L. D. College of Engineering 
+  * Instructor: Dr.Pankajkumar Prajapati, Asst. Professor, L. D. College of Engineering 
 (LDCE), Ahmedabad
 
 * **Aug 2023-
@@ -46,7 +68,7 @@ Nov 2023:** **Teaching Assistant**, IIT Gandhinagar
 * **July 2023-
 Oct 2023:** **Teaching Assistant**, NPTEL
  
-  * Course: Analog Electronic circuits
+  * Course: Analog Electronic Circuits
 
   * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
 
@@ -55,7 +77,7 @@ Oct 2023:** **Teaching Assistant**, NPTEL
 * **Feb 2023-
 April 2023:** **Teaching Assistant**, NPTEL
  
-  * Course: Analog Electronic circuits
+  * Course: Analog Electronic Circuits
 
   * Instructor: Dr.Pradip Mandal, Professor, IIT Kharagpur
 
@@ -71,7 +93,7 @@ April 2023** **Teaching Assistant**, IIT Gandhinagar
 * **Aug 2022-
 Nov 2022:** **Teaching Assistant**, NPTEL
  
-  * Course: Analog Electronic circuits
+  * Course: Analog Electronic Circuits
 
   * Instructor: Dr.Shouribrata Chatterjee, Professor, IIT Delhi
 
