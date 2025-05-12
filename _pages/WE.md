@@ -4,7 +4,7 @@ title: "Work experience"
 author_profile: true
 
 ---
-* **April 2025** **Teaching Assistant**, L. D. College of Engineering 
+* **April 2025:** **Teaching Assistant**, L. D. College of Engineering 
 (LDCE), Ahmedabad, Gujarat
  
   * Course: Workshop on Introduction and Hands-on to TCAD
@@ -21,7 +21,7 @@ March 2025:** **Teaching Assistant**, NPTEL
   * Session recordings: [Recordings](https://www.youtube.com/watch?v=uzoHh_E27fc&list=PLzIVCkaL4WKMot7o1yshOjXhrugB-3pFo)
 
 * **Jan 2025-
-April 2025** **Teaching Assistant**, IIT Gandhinagar
+April 2025:** **Teaching Assistant**, IIT Gandhinagar
  
   * Course: Microelectronics Lab
     
@@ -43,14 +43,14 @@ Oct 2024:** **Teaching Assistant**, NPTEL
   * Session recordings: [Recordings](https://www.youtube.com/watch?v=iZrnPvqmg9s&list=PLzIVCkaL4WKMwUbsF5My4sI8JGSj5bVre)
 
 * **Jan 2024-
-April 2024** **Teaching Assistant**, IIT Gandhinagar
+April 2024:** **Teaching Assistant**, IIT Gandhinagar
  
   * Course: Principles and Applications of Electrical Engineering
     
   * Instructor: Dr. Arup Lal Chakraborty, Professor, IIT Gandhinagar
     
 * **Feb 2024-
-April 2024** **Teaching Assistant**, L. D. College of Engineering 
+April 2024:** **Teaching Assistant**, L. D. College of Engineering 
 (LDCE), Ahmedabad, Gujarat
  
   * Course: VLSI Master’s Mini Project
@@ -84,7 +84,7 @@ April 2023:** **Teaching Assistant**, NPTEL
   * Session recordings: [Recordings](https://www.youtube.com/watch?v=28AHd5FvBYo&list=PLzIVCkaL4WKNTcNYvcvMQOkFBmcastLQI)
 
 * **Jan 2023-
-April 2023** **Teaching Assistant**, IIT Gandhinagar
+April 2023:** **Teaching Assistant**, IIT Gandhinagar
  
   * Course: Analog CMOS IC design
 
