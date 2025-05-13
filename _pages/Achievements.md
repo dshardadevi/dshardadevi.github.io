@@ -4,6 +4,8 @@ title: "Achievements"
 author_profile: true
 
 ---
+* Conducted a TCAD Workshop at L. D. College of Engineering (LDCE), Ahmedabad, Gujarat. 
+* Evaluated Undergraduate projects in the UG-research showcase at IIT Gandhinagar.
 * Presented Poster at **Student Research Forum** at EDTM 2024, March 2024
 * Qualified **Certification in Scientific Writing**, November 2021
 * Recieved **Prime Minister Research Fellowship** by Ministry of Human Resource and Development, October 2021
